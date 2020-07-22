@@ -1,4 +1,4 @@
-# visual-studio-fonts
+# About
 
 Workaround for missing Line Spacing feature in Visual Studio.
 
